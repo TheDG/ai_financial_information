@@ -173,3 +173,6 @@ cython_debug/
 # OS files
 **/Icon
 **/"Icon\r"
+**/Icon?
+Icon\r
+Icon?
